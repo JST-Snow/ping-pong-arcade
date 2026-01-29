@@ -29,4 +29,4 @@
 Python 3.x
 
 Pygame
-![Game Screenshot](screenshot.png)
+
